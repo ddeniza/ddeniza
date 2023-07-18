@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ddeniza
-- 🌱 I’m currently learning love2d and phaser
+- 🌱 I’m currently learning phaser
 
 <!---
 ddeniza/ddeniza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
